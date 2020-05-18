@@ -1,1 +1,1 @@
-# UniversityManagement
+# UniversityManagenent

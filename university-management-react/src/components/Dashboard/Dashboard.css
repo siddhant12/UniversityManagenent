@@ -1,0 +1,31 @@
+h3 {
+    padding-right: 0px;
+    color: green;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+#information-container{
+    border: 1px solid black;
+}
+
+#information-list-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    justify-content: space-around;
+    
+}
+
+#information-li {
+    border: 1px solid black;
+    margin: 0.5em;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    padding: 5px auto 5px;
+
+}
